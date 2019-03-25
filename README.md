@@ -27,12 +27,12 @@ Email: kvrana@psu.edu,
 
 **Conclusions:** The current case-control study supports the role of sympathetic and noradrenergic signaling in the pathogenesis of PD. Results suggest that the over-representation of rs6271 Arg549Cys SNP in PD patients suggests a potential novel contributor to the disease and the implications of this SNP in the development and progression of PD warrant further study. 
 
-****Data****
+**Data****
 
 File 1 NeuroX_TaqMan_Data_.xlsx
 
-NeuroX Genotyping Data Acquisition and Analysis of PD and Control Samples: Single-nucleotide polymorphism (SNP) genotyping on 106 PD patients and 74 control subjects was performed on whole blood DNA samples extracted by the National Institute of Neurological Disorders and Stroke (NINDS) Parkinson's Disease Biomarkers Program (PDBP) using the Illumina NeuroX array. A total of 269,476 variants were genotyped, and the Genotyping Analysis Module within Genome Studio version 1.9.4 was used to call participant genotypes. We specifically extracted the DβH SNP data from the NINDS NeuroX genotyping data. 
+**NeuroX*** Genotyping Data Acquisition and Analysis of PD and Control Samples: Single-nucleotide polymorphism (SNP) genotyping on 106 PD patients and 74 control subjects was performed on whole blood DNA samples extracted by the National Institute of Neurological Disorders and Stroke (NINDS) Parkinson's Disease Biomarkers Program (PDBP) using the Illumina NeuroX array. A total of 269,476 variants were genotyped, and the Genotyping Analysis Module within Genome Studio version 1.9.4 was used to call participant genotypes. We specifically extracted the DβH SNP data from the NINDS NeuroX genotyping data. 
 
-A TaqMan SNP Genotyping assay, designed against the rs6271 SNP, was utilized to assess the genotype at amino acid position 549 (Life Technologies, Thermo Fisher Scientific, Grand Island, NY). TaqMan assays were conducted using the OpenArray platform on a QuantStudio 12K Flex instrument (Thermo Fisher Scientific; formerly Life Technologies, Grand Island, NY). Twenty nanograms of genomic DNA was amplified per the manufacturer's directions scaled to a total volume of 5μL in an Applied Biosystems® Veriti® 384-well thermal cycler 
+A **TaqMan*** SNP Genotyping assay, designed against the rs6271 SNP, was utilized to assess the genotype at amino acid position 549 (Life Technologies, Thermo Fisher Scientific, Grand Island, NY). TaqMan assays were conducted using the OpenArray platform on a QuantStudio 12K Flex instrument (Thermo Fisher Scientific; formerly Life Technologies, Grand Island, NY). Twenty nanograms of genomic DNA was amplified per the manufacturer's directions scaled to a total volume of 5μL in an Applied Biosystems® Veriti® 384-well thermal cycler 
 
 
